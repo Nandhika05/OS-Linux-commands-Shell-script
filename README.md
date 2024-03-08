@@ -1,4 +1,4 @@
-![Screenshot 2024-03-08 194603](https://github.com/Nandhika05/OS-Linux-commands-Shell-script/assets/154419402/48b4987b-7354-46f0-89eb-7cd4d38fb6c9)# OS-Linux-commands-Shell-scripting
+##OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
